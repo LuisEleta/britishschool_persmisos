@@ -1,0 +1,11 @@
+[21-May-2023 21:23:38 America/Santiago] PHP Notice:  Undefined index: nombre in /home/britishs/public_html/permisos_test/php/mails/mail_rechazado.php on line 12
+[21-May-2023 21:24:24 America/Santiago] PHP Notice:  Undefined index: nombre in /home/britishs/public_html/permisos_test/php/mails/mail_rechazado.php on line 12
+[07-Jun-2023 20:28:13 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos_test/php/mails/mail_rechazado.php on line 25
+[07-Jun-2023 20:28:13 America/Santiago] PHP Notice:  Undefined variable: nombre in /home/britishs/public_html/permisos_test/php/mails/mail_rechazado.php on line 27
+[07-Jun-2023 20:28:13 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos_test/php/mails/mail_rechazado.php on line 173
+[18-Jun-2023 17:39:37 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos_test/php/mails/mail_rechazado.php on line 25
+[18-Jun-2023 17:39:37 America/Santiago] PHP Notice:  Undefined variable: nombre in /home/britishs/public_html/permisos_test/php/mails/mail_rechazado.php on line 27
+[18-Jun-2023 17:39:37 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos_test/php/mails/mail_rechazado.php on line 173
+[18-Jun-2023 17:39:49 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos_test/php/mails/mail_rechazado.php on line 25
+[18-Jun-2023 17:39:49 America/Santiago] PHP Notice:  Undefined variable: nombre in /home/britishs/public_html/permisos_test/php/mails/mail_rechazado.php on line 27
+[18-Jun-2023 17:39:49 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos_test/php/mails/mail_rechazado.php on line 173

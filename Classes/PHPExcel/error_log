@@ -1,0 +1,6 @@
+[22-Oct-2023 15:47:06 America/Santiago] PHP Warning:  Use of undefined constant PHPEXCEL_ROOT - assumed 'PHPEXCEL_ROOT' (this will throw an Error in a future version of PHP) in /home/britishs/public_html/permisos/Classes/PHPExcel/Autoloader.php on line 73
+[22-Oct-2023 15:47:06 America/Santiago] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_Shared_String' not found in /home/britishs/public_html/permisos/Classes/PHPExcel/Autoloader.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/britishs/public_html/permisos/Classes/PHPExcel/Autoloader.php on line 36
+[23-Oct-2023 21:00:18 America/Santiago] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/britishs/public_html/permisos/Classes/PHPExcel/Comment.php on line 36

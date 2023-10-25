@@ -1,0 +1,39 @@
+[20-Jul-2023 02:09:08 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php on line 14
+[20-Jul-2023 02:09:13 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php on line 14
+[20-Jul-2023 02:09:59 America/Santiago] PHP Fatal error:  Call to undefined function json_encode() in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php on line 14
+[20-Jul-2023 02:10:09 America/Santiago] PHP Fatal error:  Call to undefined function json_encode() in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php on line 14
+[20-Jul-2023 02:10:14 America/Santiago] PHP Fatal error:  Call to undefined function json_encode() in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php on line 14
+[20-Jul-2023 02:11:15 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php on line 14
+[20-Jul-2023 02:11:17 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php on line 14
+[20-Jul-2023 02:12:29 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php on line 14
+[20-Jul-2023 02:12:41 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php on line 14
+[20-Jul-2023 07:57:16 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php on line 14
+[20-Jul-2023 14:12:04 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php on line 14
+[20-Jul-2023 14:21:31 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/britishs/public_html/permisos/php/sesion/verificarsesion.php on line 14

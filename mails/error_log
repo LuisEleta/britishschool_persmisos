@@ -1,0 +1,294 @@
+[29-Mar-2023 12:06:33 America/Santiago] PHP Notice:  Undefined variable: link in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 5
+[29-Mar-2023 12:06:33 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 5
+[29-Mar-2023 12:06:33 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 6
+[29-Mar-2023 12:06:33 America/Santiago] PHP Notice:  Undefined variable: rut in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 8
+[29-Mar-2023 12:06:33 America/Santiago] PHP Notice:  Undefined variable: link in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 9
+[29-Mar-2023 12:06:33 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 9
+[29-Mar-2023 12:06:33 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 10
+[29-Mar-2023 12:06:33 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 37
+[29-Mar-2023 12:06:33 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 39
+[29-Mar-2023 12:06:33 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 39
+[29-Mar-2023 12:06:33 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 143
+[29-Mar-2023 12:06:33 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 144
+[02-Apr-2023 01:47:41 America/Santiago] PHP Notice:  Undefined variable: link in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 5
+[02-Apr-2023 01:47:41 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 5
+[02-Apr-2023 01:47:41 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 6
+[02-Apr-2023 01:47:41 America/Santiago] PHP Notice:  Undefined variable: rut in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 8
+[02-Apr-2023 01:47:41 America/Santiago] PHP Notice:  Undefined variable: link in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 9
+[02-Apr-2023 01:47:41 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 9
+[02-Apr-2023 01:47:41 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 10
+[02-Apr-2023 01:47:41 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 37
+[02-Apr-2023 01:47:41 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 39
+[02-Apr-2023 01:47:41 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 39
+[02-Apr-2023 01:47:41 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 143
+[02-Apr-2023 01:47:41 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos_test/mails/sent_permiso_editado.php on line 144
+[27-Jul-2023 08:36:59 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[27-Jul-2023 08:36:59 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[27-Jul-2023 08:36:59 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[27-Jul-2023 08:36:59 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[27-Jul-2023 08:36:59 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[27-Jul-2023 08:36:59 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[27-Jul-2023 08:36:59 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[27-Jul-2023 08:36:59 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[27-Jul-2023 08:36:59 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[27-Jul-2023 15:15:40 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[27-Jul-2023 15:15:40 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[27-Jul-2023 15:15:40 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[27-Jul-2023 15:15:40 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[27-Jul-2023 15:15:40 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[27-Jul-2023 15:15:40 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[27-Jul-2023 15:15:40 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[27-Jul-2023 15:15:40 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[27-Jul-2023 15:15:40 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[04-Aug-2023 10:42:46 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[04-Aug-2023 10:42:46 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[04-Aug-2023 10:42:46 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[04-Aug-2023 10:42:46 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[04-Aug-2023 10:42:46 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[04-Aug-2023 10:42:46 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[04-Aug-2023 10:42:46 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[04-Aug-2023 10:42:46 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[04-Aug-2023 10:42:46 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[07-Aug-2023 11:39:41 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[07-Aug-2023 11:39:41 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[07-Aug-2023 11:39:41 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[07-Aug-2023 11:39:41 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[07-Aug-2023 11:39:41 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[07-Aug-2023 11:39:41 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[07-Aug-2023 11:39:41 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[07-Aug-2023 11:39:41 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[07-Aug-2023 11:39:41 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[09-Aug-2023 08:30:30 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[09-Aug-2023 08:30:30 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[09-Aug-2023 08:30:30 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[09-Aug-2023 08:30:30 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[09-Aug-2023 08:30:30 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[09-Aug-2023 08:30:30 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[09-Aug-2023 08:30:30 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[09-Aug-2023 08:30:30 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[09-Aug-2023 08:30:30 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[09-Aug-2023 08:31:32 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[09-Aug-2023 08:31:32 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[09-Aug-2023 08:31:32 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[09-Aug-2023 08:31:32 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[09-Aug-2023 08:31:32 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[09-Aug-2023 08:31:32 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[09-Aug-2023 08:31:32 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[09-Aug-2023 08:31:32 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[09-Aug-2023 08:31:32 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[09-Aug-2023 08:32:02 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[09-Aug-2023 08:32:02 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[09-Aug-2023 08:32:02 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[09-Aug-2023 08:32:02 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[09-Aug-2023 08:32:02 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[09-Aug-2023 08:32:02 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[09-Aug-2023 08:32:02 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[09-Aug-2023 08:32:02 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[09-Aug-2023 08:32:02 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[09-Aug-2023 09:51:19 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[09-Aug-2023 09:51:19 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[09-Aug-2023 09:51:19 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[09-Aug-2023 09:51:19 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[09-Aug-2023 09:51:19 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[09-Aug-2023 09:51:19 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[09-Aug-2023 09:51:19 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[09-Aug-2023 09:51:19 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[09-Aug-2023 09:51:19 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[09-Aug-2023 13:59:05 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[09-Aug-2023 13:59:05 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[09-Aug-2023 13:59:05 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[09-Aug-2023 13:59:05 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[09-Aug-2023 13:59:05 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[09-Aug-2023 13:59:05 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[09-Aug-2023 13:59:05 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[09-Aug-2023 13:59:05 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[09-Aug-2023 13:59:05 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[09-Aug-2023 14:00:10 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[09-Aug-2023 14:00:10 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[09-Aug-2023 14:00:10 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[09-Aug-2023 14:00:10 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[09-Aug-2023 14:00:10 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[09-Aug-2023 14:00:10 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[09-Aug-2023 14:00:10 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[09-Aug-2023 14:00:10 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[09-Aug-2023 14:00:10 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[16-Aug-2023 12:58:34 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[16-Aug-2023 12:58:34 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[16-Aug-2023 12:58:34 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[16-Aug-2023 12:58:34 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[16-Aug-2023 12:58:34 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[16-Aug-2023 12:58:34 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[16-Aug-2023 12:58:34 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[16-Aug-2023 12:58:34 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[16-Aug-2023 12:58:34 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[16-Aug-2023 12:59:07 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[16-Aug-2023 12:59:07 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[16-Aug-2023 12:59:07 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[16-Aug-2023 12:59:07 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[16-Aug-2023 12:59:07 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[16-Aug-2023 12:59:07 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[16-Aug-2023 12:59:07 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[16-Aug-2023 12:59:07 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[16-Aug-2023 12:59:07 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[16-Aug-2023 13:00:01 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[16-Aug-2023 13:00:01 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[16-Aug-2023 13:00:01 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[16-Aug-2023 13:00:01 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[16-Aug-2023 13:00:01 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[16-Aug-2023 13:00:01 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[16-Aug-2023 13:00:01 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[16-Aug-2023 13:00:01 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[16-Aug-2023 13:00:01 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[16-Aug-2023 13:00:17 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[16-Aug-2023 13:00:17 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[16-Aug-2023 13:00:17 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[16-Aug-2023 13:00:17 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[16-Aug-2023 13:00:17 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[16-Aug-2023 13:00:17 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[16-Aug-2023 13:00:17 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[16-Aug-2023 13:00:17 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[16-Aug-2023 13:00:17 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[24-Aug-2023 08:44:52 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[24-Aug-2023 08:44:52 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[24-Aug-2023 08:44:52 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[24-Aug-2023 08:44:52 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[24-Aug-2023 08:44:52 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[24-Aug-2023 08:44:52 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[24-Aug-2023 08:44:52 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[24-Aug-2023 08:44:52 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[24-Aug-2023 08:44:52 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[24-Aug-2023 13:54:06 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[24-Aug-2023 13:54:06 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[24-Aug-2023 13:54:06 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[24-Aug-2023 13:54:06 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[24-Aug-2023 13:54:06 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[24-Aug-2023 13:54:06 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[24-Aug-2023 13:54:06 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[24-Aug-2023 13:54:06 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[24-Aug-2023 13:54:06 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[25-Aug-2023 10:06:41 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[25-Aug-2023 10:06:41 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[25-Aug-2023 10:06:41 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[25-Aug-2023 10:06:41 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[25-Aug-2023 10:06:41 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[25-Aug-2023 10:06:41 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[25-Aug-2023 10:06:41 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[25-Aug-2023 10:06:41 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[25-Aug-2023 10:06:41 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[26-Aug-2023 12:04:07 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[26-Aug-2023 12:04:07 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[26-Aug-2023 12:04:07 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[26-Aug-2023 12:04:07 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[26-Aug-2023 12:04:07 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[26-Aug-2023 12:04:07 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[26-Aug-2023 12:04:07 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[26-Aug-2023 12:04:07 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[26-Aug-2023 12:04:07 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[31-Aug-2023 13:05:02 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[31-Aug-2023 13:05:02 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[31-Aug-2023 13:05:02 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[31-Aug-2023 13:05:02 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[31-Aug-2023 13:05:02 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[31-Aug-2023 13:05:02 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[31-Aug-2023 13:05:02 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[31-Aug-2023 13:05:02 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[31-Aug-2023 13:05:02 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[31-Aug-2023 13:06:53 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[31-Aug-2023 13:06:53 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[31-Aug-2023 13:06:53 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[31-Aug-2023 13:06:53 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[31-Aug-2023 13:06:53 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[31-Aug-2023 13:06:53 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[31-Aug-2023 13:06:53 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[31-Aug-2023 13:06:53 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[31-Aug-2023 13:06:53 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[04-Sep-2023 13:23:44 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[04-Sep-2023 13:23:44 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[04-Sep-2023 13:23:44 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[04-Sep-2023 13:23:44 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[04-Sep-2023 13:23:44 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[04-Sep-2023 13:23:44 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[04-Sep-2023 13:23:44 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[04-Sep-2023 13:23:44 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[04-Sep-2023 13:23:44 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[06-Sep-2023 16:05:49 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[06-Sep-2023 16:05:49 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[06-Sep-2023 16:05:49 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[06-Sep-2023 16:05:49 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[06-Sep-2023 16:05:49 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[06-Sep-2023 16:05:49 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[06-Sep-2023 16:05:49 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[06-Sep-2023 16:05:49 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[06-Sep-2023 16:05:49 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[12-Sep-2023 08:55:26 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[12-Sep-2023 08:55:26 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[12-Sep-2023 08:55:26 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[12-Sep-2023 08:55:26 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[12-Sep-2023 08:55:26 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[12-Sep-2023 08:55:26 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[12-Sep-2023 08:55:26 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[12-Sep-2023 08:55:26 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[12-Sep-2023 08:55:26 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[29-Sep-2023 08:13:30 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[29-Sep-2023 08:13:30 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[29-Sep-2023 08:13:30 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[29-Sep-2023 08:13:30 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[29-Sep-2023 08:13:30 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[29-Sep-2023 08:13:30 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[29-Sep-2023 08:13:30 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[29-Sep-2023 08:13:30 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[29-Sep-2023 08:13:30 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[04-Oct-2023 11:36:46 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[04-Oct-2023 11:36:46 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[04-Oct-2023 11:36:46 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[04-Oct-2023 11:36:46 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[04-Oct-2023 11:36:46 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[04-Oct-2023 11:36:46 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[04-Oct-2023 11:36:46 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[04-Oct-2023 11:36:46 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[04-Oct-2023 11:36:46 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[07-Oct-2023 19:56:10 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[07-Oct-2023 19:56:10 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[07-Oct-2023 19:56:10 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[07-Oct-2023 19:56:10 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[07-Oct-2023 19:56:10 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[07-Oct-2023 19:56:10 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[07-Oct-2023 19:56:10 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[07-Oct-2023 19:56:10 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[07-Oct-2023 19:56:10 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[17-Oct-2023 08:40:56 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[17-Oct-2023 08:40:56 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[17-Oct-2023 08:40:56 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[17-Oct-2023 08:40:56 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[17-Oct-2023 08:40:56 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[17-Oct-2023 08:40:56 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[17-Oct-2023 08:40:56 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[17-Oct-2023 08:40:56 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[17-Oct-2023 08:40:56 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[17-Oct-2023 11:27:43 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[17-Oct-2023 11:27:43 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[17-Oct-2023 11:27:43 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[17-Oct-2023 11:27:43 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[17-Oct-2023 11:27:43 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[17-Oct-2023 11:27:43 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[17-Oct-2023 11:27:43 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[17-Oct-2023 11:27:43 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[17-Oct-2023 11:27:43 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[18-Oct-2023 16:42:32 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[18-Oct-2023 16:42:32 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[18-Oct-2023 16:42:32 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[18-Oct-2023 16:42:32 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[18-Oct-2023 16:42:32 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[18-Oct-2023 16:42:32 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[18-Oct-2023 16:42:32 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[18-Oct-2023 16:42:32 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[18-Oct-2023 16:42:32 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144
+[24-Oct-2023 10:40:55 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 5
+[24-Oct-2023 10:40:55 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 6
+[24-Oct-2023 10:40:55 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 9
+[24-Oct-2023 10:40:55 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 10
+[24-Oct-2023 10:40:55 America/Santiago] PHP Notice:  Undefined variable: correo in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 37
+[24-Oct-2023 10:40:55 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[24-Oct-2023 10:40:55 America/Santiago] PHP Notice:  Undefined variable: n in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 39
+[24-Oct-2023 10:40:55 America/Santiago] PHP Notice:  Undefined variable: name_funcionario in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 143
+[24-Oct-2023 10:40:55 America/Santiago] PHP Notice:  Undefined variable: name_supervisor in /home/britishs/public_html/permisos/mails/sent_permiso_editado.php on line 144

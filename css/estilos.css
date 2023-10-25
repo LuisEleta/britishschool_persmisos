@@ -1,0 +1,343 @@
+
+@font-face{
+	font-family: tahoma;
+	src:url(../font/tahoma.ttf);
+}
+@font-face{
+	font-family: goodmood;
+	src:url(../font/CODE_Light.otf);
+}
+/** efecto entrada **/
+  .entrada{
+    opacity: 0;
+    max-height: auto;
+    overflow: hidden;
+    animation-name:animacion;
+    animation-duration:1s;
+    opacity: 1;}
+    
+@keyframes animacion {
+    0% {opacity: 0;}
+    20% {opacity: 0.2;}
+    40% {opacity: 0.4;}
+    60% {opacity: 0.6;}
+    80% {opacity: 0.8;}
+    100% {opacity: 1;}
+}
+/** fin de entrada **/
+.vacio{
+	border: 1px solid red;
+}
+body{
+	position: relative;
+	min-height: 100vh;
+	padding-bottom: 210px;
+}
+@media(max-width:770px){
+	body{
+ 
+	padding-bottom: 90px;
+}
+}
+
+:root {
+    --main-color: #1c4365;
+    --azul-oscuro: #041324;
+    --main-rojo: #c74b53;
+    --color-griss: #5b6771 ;
+}
+.navbar{
+	box-shadow: 0px 3px 10px var(--color-griss);
+	z-index: 1001;
+	color: white;
+}
+.nav-link{
+	font-weight: bold;
+}
+.link-menu-dere{
+	font-weight: bold;
+	color: rgba(0,0,0,.5);
+}
+.link-menu-dere:hover{
+	color: var(--main-color);
+	text-decoration: none;
+}
+.footer{
+	position: absolute;
+	bottom: 0px;
+	background: var(--main-color);
+	color: white;
+	width: 100%;
+}
+.link-redes{
+	color: var(--main-color);
+	font-size: 15px;
+}
+.caja-redes{
+	width: 30px;
+	height: 30px;
+	border-radius: 30px 30px;
+	background: white;
+	padding-top: 2px;
+}
+.parrafo-pie{
+	font-size: 10px;
+	line-height: 1.2;
+}
+.cabezera-link-pie{
+	color: white;
+	font-size: 20px;
+}
+.cabezera-link-pie:hover{
+	text-decoration: none;
+	color: var(--color-griss);
+}
+.link-pie{
+	color: white;
+	font-size: 12px;
+}
+.link-pie:hover{
+	text-decoration: none;
+	color: white;
+}
+.caja-sesion{
+	border-radius: 10px 10px;
+	border: 2px solid var(--main-color);
+	box-shadow: 0px 5px 10px var(--color-griss);
+}
+.btn-base{
+	background: var(--main-color);
+	color: white;
+	border-radius: 10px 10px;
+}
+.btn-base:hover{
+	background: var(--azul-oscuro);
+    color: white;
+    text-decoration: none;
+}
+.btn-base-rojo{
+	background: var(--main-rojo);
+	border: 1px solid var(--main-rojo);
+	color: white;
+}
+.btn-base-rojo:hover{
+	background: white;
+	border: 1px solid var(--main-rojo);
+	color: var(--main-color);
+}
+.cabecera-menu-dia{
+	width: 100%;
+	height: 190px;
+	 background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.8),
+      rgba(0, 0, 0, 0.8)
+    ),
+    url('../img/top_main.jpg');
+    object-fit: cover;
+     background-position: center center;
+	padding-top: 50px;
+}
+.menu-del-dia{
+	margin-top: 0;
+	font-size: 60px;
+	 color: white;
+	font-weight: bold;
+}
+.h1-menus{
+
+	font-size: 80px;
+	 color: white;
+	font-weight: bold;
+}
+.lateral-menu{
+	z-index: 1;
+	box-shadow: 3px 0px 10px var(--color-griss);
+	background: var(--azul-oscuro);
+	color: white;
+}
+.items{
+	background: var(--main-color);
+	border-radius: 0px 0px;
+}
+.items-activo{
+	background: var(--main-rojo);
+}
+.items:hover{
+	background: var(--main-rojo);
+	cursor: pointer;
+}
+.card-body{
+	background: var(--azul-oscuro);
+}
+.titulo-sub-items:hover{
+   background: var(--main-color);
+   cursor: pointer;
+}
+.titulo-sub-items-activo{
+	background: var(--main-color);
+}
+.caja-principal{
+	width: 100%
+}
+.oculto{
+	display: none;
+}
+
+.modal-title{
+	color: white;
+}
+.titulo-parametro{
+	font-size: 25px;
+	font-weight: bold;
+
+}
+.precio-parametro{
+	font-size: 65px;
+	
+
+}
+.id-almuerzo{
+	font-size: 55px;
+	color: var(--main-rojo);
+	font-weight: bold;
+}
+.titulo-almuerzo{
+	font-size: 35px;
+	color: var(--main-color);
+	font-weight: bold;
+}
+.fecha-almuerzo{
+	font-size: 25px;
+	color: var(--main-rojo);
+	font-weight: bold;
+}
+.input-code{
+	font-size: 30px;
+	color: var(--main-rojo);
+	font-weight: bold;
+}
+.btn-entrega-almuerzo{
+	background: #1c4365;
+	border: 3px solid var(--azul-oscuro);
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+		box-shadow: 5px 5px 10px var(--color-griss);
+}
+.btn-entrega-almuerzo:hover{
+	background: white ;
+	border: 3px solid var(--azul-oscuro);
+	color: #1c4365;
+
+}
+.input-formu{
+	height: 45px;
+	border-radius: 10px 10px;
+	border: 1px solid var(--azul-oscuro);
+}
+.caja-superior{
+	background: #e0eefa;
+	border-radius: 10px 10px;
+	border: 2px solid #1a3c5b ;
+}
+.btn-azul{
+	background: #4ca4f2;
+		border-radius: 10px 10px;
+}
+.btn-rojizo{
+	background: #ca8586 ;
+		border-radius: 10px 10px;
+}
+.btn-verde{
+	background: #90bba3  ;
+		border-radius: 10px 10px;
+}
+.btn-amarillo{
+	background: #efe195;
+		border-radius: 10px 10px;
+		min-height: 90%;
+}
+
+.btn-azul-oscuro{
+	background: #1a3c5b;
+		border-radius: 10px 10px;
+		min-height: 90%;
+		color: white;
+		font-weight: bold;
+		font-size: 30px;
+}
+
+.btn-azul-oscuro:hover{
+    cursor: pointer;
+		color: white;
+		
+}
+
+.label_input{
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+
+
+.calendar {
+ background: #e0eefa;
+	border-radius: 10px 10px;
+	border: 2px solid #1a3c5b ;
+  width: 100%;
+  
+  padding: .5em 0; }
+
+  .calendar__info {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 0 2em;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    border-bottom: 3px solid #1a3c5b; }
+
+  .calendar__prev, .calendar__next {
+    color: #C7F464;
+    cursor: pointer;
+    font-size: 1.3em; }
+  .calendar__prev {
+    margin-right: auto; }
+  .calendar__next {
+    margin-left: auto; }
+  .calendar__week, .calendar__dates {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-gap: 10px; }
+    .calendar__date:hover{
+    	cursor: pointer;
+    	border: 3px solid var(--main-rojo); 
+    }
+  .calendar__month, .calendar__year {
+    padding: .5em 1em; }
+  .calendar__item {
+     line-height: 2; 
+    border: 3px solid #1a3c5b; 
+    min-height: 120px}
+      .calendar__item2 {
+    text-align: center;
+    line-height: 2; 
+    border: 3px solid #1a3c5b; 
+    color: #1a3c5b;
+    font-weight: bold;
+     }
+  .calendar__today {
+    background: lightcoral;
+    color: white;
+    width: 50%;
+    border-radius: 50%;
+    margin: auto; }
+  .calendar__last-days {
+    opacity: .3; }
+    .n_dia{
+    	margin-left: 5px;
+        font-weight: bold;
+    }
